@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+}
+.navbar {
+    background-color: antiquewhite;
+    display:flex;
+    
+   
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+.imglogo {
+    display: flex;
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-end;
+}
