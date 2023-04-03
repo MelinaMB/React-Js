@@ -1,0 +1,34 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.ftco-section {
+    background-color: #fffafa;
+    background-image: linear-gradient(147deg, #f9fcff 0%, #fffafa 74%);
+}
+
+.login {
+    width: 100%;
+}
+
+.caja {
+    height: 450px;
+}
+
+.color {
+    background-color: #861657;
+    background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+}
+
+.iniciar {
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #ff7878 74%);
+}
+
+.social-media {
+    flex-direction: column;
+}
