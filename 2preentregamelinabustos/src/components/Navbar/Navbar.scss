@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    margin: 20px;
+     
+}
+.nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+  }
+  
+
+.imglogo {
+    display: flex;
+  
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-end;
+    text-decoration: none;
+    margin: 5px;
+    
+}

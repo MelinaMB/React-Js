@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "nombres": "Vanitory Marron",
+        "precio": 30000,
+        "img": "/img/vanitorymarron.png",
+        "cantidad": 1,
+        "categoria": "bano",
+        "descripcion": "Vanitory color marron con tres cajones"
+    },
+    {
+        "id": 2,
+        "nombres": "Vanitory Clarito",
+        "precio": 27000,
+        "img": "/img/vanitoryclarito.jpg",
+        "cantidad": 1,
+        "categoria": "bano" ,
+        "descripcion": "Vanitory color marron clarito con 2 cajones"
+    },
+    {
+        "id": 3,
+        "nombres": "Vanitory Negro",
+        "precio": 33000,
+        "img": "/img/vanitorylaqueadonegro.jpg",
+        "cantidad": 1,
+        "categoria": "bano",
+        "descripcion": "Vanitory negro con dos cajones"
+    },
+    {
+        "id": 4,
+        "nombres": "Vanitory Marron Clarito",
+        "precio": 35500,
+        "img": "/img/vanitoryflotante.jpg",
+        "cantidad": 1,
+        "categoria": "bano",
+        "descripcion": "Vanitory marron con puerta"
+    },
+    {
+        "id": 5,
+        "nombres": "Cama con Cajones",
+        "precio": 59400,
+        "img": "/img/camacajones.jpg",
+        "cantidad": 1,
+        "categoria": "dormitorio",
+        "descripcion": "Cama con cajones y estantes para guardar ropa y accesorios"
+    },
+    {
+        "id": 6,
+        "nombres": "Armario de Pared",
+        "precio": 67481,
+        "img": "/img/armariopared.jpg",
+        "cantidad": 1,
+        "categoria": "dormitorio",
+        "descripcion": "Armario de pared con cajones"
+    },
+    {
+        "id": 7,
+        "nombres": "Cajonera Negra",
+        "precio": 34899,
+        "img": "/img/cajoneranegra.jpg",
+        "cantidad": 1,
+        "categoria": "dormitorio",
+        "descripcion": "Cajonera negra de cuatro cajones"
+    },
+    {
+        "id": 8,
+        "nombres": "Mesa de Luz",
+        "precio": 10690,
+        "img": "/img/mesadeluznegra.jpg",
+        "cantidad": 1,
+        "categoria": "dormitorio",
+        "descripcion": "Mesa de luz negra con cajon y puerta"
+    },
+    {
+        "id": 9,
+        "nombres": "Mesa Isla",
+        "precio": 21500,
+        "img": "/img/mesa.jpg",
+        "cantidad": 1,
+        "categoria": "comedor",
+        "descripcion":"Mesa isla color madera"
+    },
+    {
+        "id": 10,
+        "nombres": "Mesa Auxiliar",
+        "precio": 4500,
+        "img": "/img/mesa auxiliar.jpg",
+        "cantidad": 1,
+        "categoria": "comedor",
+        "descripcion":"Mesa auxiliar de madera con tapa blenca"
+    },
+    {
+        "id": 11,
+        "nombres": "Mesa Redonda",
+        "precio": 26169,
+        "img": "/img/mesarodonda.jpg",
+        "cantidad": 1,
+        "categoria": "comedor",
+        "descripcion":"Mesa redonda de madera con soporte negro de metal"
+    },
+    {
+        "id": 12,
+        "nombres": "Mesa Rectangular",
+        "precio": 14999,
+        "img": "/img/mesarectangular.jpg",
+        "cantidad": 1,
+        "categoria": "comedor",
+        "descripcion":"Mesa rectangular de madera con patas de metal"
+    },
+    {
+        "id": 13,
+        "nombres": "Mesa de Cocina",
+        "precio": 25850,
+        "img": "/img/mesacocina.jpg",
+        "cantidad": 1,
+        "categoria": "cocina",
+        "descripcion":"Mesa de madera con base de hierro color negro"
+    },
+    {
+        "id": 14,
+        "nombres": "Alacena de Hierro",
+        "precio": 38000,
+        "img": "/img/alacenahierro.jpg",
+        "cantidad": 1,
+        "categoria": "cocina",
+        "descripcion":"Alacena de madera con soportes de hierro sin puertas"
+    },
+    {
+        "id": 15,
+        "nombres": "Alacena Marrón",
+        "precio": 16500,
+        "img": "/img/alacenamarron.jpg",
+        "cantidad": 1,
+        "categoria": "cocina",
+        "descripcion":"Alacena de madera marron con puertas de vidrio"
+    },
+    {
+        "id": 16,
+        "nombres": "Alacena Pequeña",
+        "precio": 17999,
+        "img": "/img/alacenapequeña.jpg",
+        "cantidad": 1,
+        "categoria": "cocina",
+        "descripcion":"Alacena chica blanca con estante y puerta"
+    },
+    {
+        "id": 17,
+        "nombres": "Escritorio Blanco",
+        "precio": 7500,
+        "img": "/img/escritorioblanco.jpg",
+        "cantidad": 1,
+        "categoria": "oficina",
+        "descripcion":"Escritorio blanco con estantes en zig.zag"
+    },
+    {
+        "id": 18,
+        "nombres": "Escritorio Gris",
+        "precio": 9200,
+        "img": "/img/escritoriogris.jpg",
+        "cantidad": 1,
+        "categoria": "oficina",
+        "descripcion":"Escritorio gris con cuatro cajones"
+    },
+    {
+        "id": 19,
+        "nombres": "Escritorio Marrón",
+        "precio": 6600,
+        "img": "/img/escritoriomarron.jpg",
+        "cantidad": 1,
+        "categoria": "oficina",
+        "descripcion":"Escritorio grande marron doble"
+    },
+    {
+        "id": 20,
+        "nombres": "Escritorio Negro",
+        "precio": 10000,
+        "img": "/img/escritorionegro.jpg",
+        "cantidad": 1,
+        "categoria": "oficina",
+        "descripcion":"Escritorio negro doble"
+    },
+    {
+        "id": 21,
+        "nombres": "Mesa Ratona",
+        "precio": 6000,
+        "img": "/img/mesaratona.jpg",
+        "cantidad": 1,
+        "categoria": "living",
+        "descripcion": "Mesa ratona con tapa movible hacia arriba"
+    },
+    {
+        "id": 22,
+        "nombres": "Estantes de Hierro",
+        "precio": 32000,
+        "img": "/img/mueblehierro.jpeg",
+        "cantidad": 1,
+        "categoria": "living",
+        "descripcion":"Estanteria de madera con soportes de hierro"
+        
+    },
+    {
+        "id": 23,
+        "nombres": "Mueble y Estante Marrón",
+        "precio": 23000,
+        "img": "/img/mueblemarron.jpg",
+        "cantidad": 1,
+        "categoria": "living",
+        "descripcion":"Estantes de madera con cajones"
+    },
+    {
+        "id": 24,
+        "nombres": "Mueble y Estantes Negros",
+        "precio": 26000,
+        "img": "/img/muebleyestantes.jpg",
+        "cantidad": 1,
+        "categoria": "living",
+        "descripcion":"Mueble con tres cajones y dos estantes negros"
+    }
+]
